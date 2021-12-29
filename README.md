@@ -1,16 +1,8 @@
 
 <p align="center">
-🤖 𝐃𝐎𝐍 𝐋𝐄𝐄 𝐑𝐎𝐁𝐎𝐓 𝐕𝟐 🤖
+🤖 Kurupp Bot 🤖
 </p>
 
-<p align="center">
-<a href="https://github.com/PR0FESS0R-99/DonLee-Robot-V2/stargazers"><img alt="github" src="https://img.shields.io/github/stars/PR0FESS0R-99/DonLee-Robot-V2?style=flat-square&color=yellow"/></a>
-<a href="https://github.com/PR0FESS0R-99/DonLee-Robot-V2/fork"><img alt="github" src="https://img.shields.io/github/forks/PR0FESS0R-99/DonLee-Robot-V2?style=flat-square&color=orange"/></a>
-<a href="https://github.com/PR0FESS0R-99/DonLee-Robot-V2"><img alt="github" src="https://img.shields.io/github/repo-size/PR0FESS0R-99/DonLee-Robot-V2?style=flat-square&color=green"/></a>
-<a href="https://github.com/PR0FESS0R-99/DonLee-Robot-V2a"><img alt="github" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-<a href="https://github.com/PR0FESS0R-99/DonLee-Robot-V2/graphs/contributors"><img alt="github" src="https://img.shields.io/github/contributors/PR0FESS0R-99/DonLee-Robot-V2?style=flat-square&color=green"/></a>      
-<a href="https://github.com/PR0FESS0R-99/DonLee-Robot-V2/blob/main/LICENSE"><img alt="github" src="https://img.shields.io/badge/License-AGPL-blue"/></a>
-</p>
 
 👋Hey <a href="https://telegram.dog/rayner74">Rayner74</a>, Iam <a href="https://telegram.me/kurupp_dq_bot">kurupp</a>
 Make me an admin for your group and channel then connect me....🎉
@@ -99,8 +91,8 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 - `FORCE_CHANNEL` : Main Channel Username Without @
 - `FORCE_TEXT` : Demo Text From [Click Here](https://github.com/PR0FESS0R-99/DonLee-Robot-V2/blob/26510e3ed0cd0bc222f3fb1560925f36e2904ecf/translation.py#L6)
 - `GROUP_LINK` : Your Telagarm Group Link (Without @)
-- `PHOTOS` : Bot Pics (Start Help about) random pics [click here](https://youtu.be/c-GfUfriP50)
-- `SESSION_FILE` : From [Click Here](https://youtu.be/WUN_12-dYOM)
+- `PHOTOS` : Bot Pics (Start Help about) random pics
+- `SESSION_FILE` : From pryrogram
 - `SPELLING_MODE_TEXT` : Demo Text From [click here](https://github.com/PR0FESS0R-99/DonLee-Robot-V2/blob/26510e3ed0cd0bc222f3fb1560925f36e2904ecf/translation.py#L17)
 - `WELCOME_ENABLE_OR_DISABLE` : Do you want a welcome message? Type Yes if necessary and No if not required
 - `WELCOME_TEXT` : Demo text from [Click here](https://github.com/PR0FESS0R-99/DonLee-Robot-V2/blob/26510e3ed0cd0bc222f3fb1560925f36e2904ecf/config.py#L26)
