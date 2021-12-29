@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/PR0FESS0R-99/DonLee-Robot-V2.git /DonLee-Robot-V2
+  git clone https://github.com/rayner074/kurupp.git /DonLee-Robot-V2
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /DonLee-Robot-V2
