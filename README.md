@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://github.com/PR0FESS0R-99/DonLee-Robot-V2/blob/Professor-99/DONLEE-ROBOT-V2/DonLee_Robot.jpg" alt="DonLeeLogo">
-</p>
 
 <p align="center">
 🤖 𝐃𝐎𝐍 𝐋𝐄𝐄 𝐑𝐎𝐁𝐎𝐓 𝐕𝟐 🤖
