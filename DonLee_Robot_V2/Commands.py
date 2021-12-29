@@ -65,9 +65,6 @@ async def start(bot: DonLee_Robot_V2, msg: Import.Msg):
             LOGGER(__name__).error(e)
         return
 
-    button = [[
-     Import.Button('➕ Add Me To Your Groups ➕', url='http://t.me/donlee_robot?startgroup=true')
-    ]]
     await msg.reply_photo(
     photo=random.choice(Config.PHOTO),
     caption=Text.START_TEXT.format(msg.from_user.mention, Config.DEV_ID),
