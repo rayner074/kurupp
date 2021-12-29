@@ -6,12 +6,10 @@
 
 class Text(object):
     START_TEXT = """
-👋𝖧𝖾𝗒  {}, Iam <a href="t.me/Donlee_Robot">𝖣𝗈𝗇𝖫𝖾𝖾 𝖱𝗈𝖻𝗈𝗍 𝖵2</a>
+👋𝖧𝖾𝗒  {}, Iam <a href="t.me/kurupp_dq_bot">Kurupp Bot</a>
 𝖬𝖺𝗄𝖾 𝗆𝖾 𝖺𝗇 𝖺𝖽𝗆𝗂𝗇 𝖿𝗈𝗋 𝗒𝗈𝗎𝗋 𝗀𝗋𝗈𝗎𝗉 𝖺𝗇𝖽 𝖼𝗁𝖺𝗇𝗇𝖾𝗅 𝗍𝗁𝖾𝗇 𝖼𝗈𝗇𝗇𝖾𝖼𝗍 𝗆𝖾....🎉
-🙂𝖳𝗈 𝖻𝗎𝗂𝗅𝖽 𝖺 𝖣𝗈𝗇𝖫𝖾𝖾 𝗋𝗈𝖻𝗈𝗍 𝖵2 𝗅𝗂𝗄𝖾 𝗆𝖾, 𝖼𝗅𝗂𝖼𝗄 𝗈𝗇 𝗍𝗁𝖾 /sub 𝖼𝗈𝗆𝗆𝖺𝗇𝖽
-𝖲𝗎𝖻𝗌𝖼𝗋𝗂𝖻𝖾 𝗍𝗈 𝗍𝗁𝖾 𝗎𝗉𝖽𝖺𝗍𝖾 𝖼𝗁𝖺𝗇𝗇𝖾𝗅 𝗍𝗈 𝗅𝖾𝖺𝗋𝗇 𝖺𝖻𝗈𝗎𝗍 𝗆𝗒 𝗎𝗉𝖽𝖺𝗍𝖾𝗌 𝖺𝗇𝖽 𝖺𝖼𝗍𝗂𝗏𝗂𝗍𝗒...
 𝖢𝗅𝗂𝖼𝗄 𝗈𝗇 𝗍𝗁𝖾 𝖧𝖾𝗅𝗉 /help 𝖻𝗎𝗍𝗍𝗈𝗇 𝖿𝗈𝗋 𝗆𝗈𝗋𝖾 𝗂𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇
-🧒 𝖬𝖺𝗂𝗇𝗍𝖺𝗂𝗇𝖾𝖽 𝖡𝗒 <a href="https://t.me/Mrk_yt">𝖳𝗁𝗂𝗌 𝖯𝖾𝗋𝗌𝗈𝗇</a> & <a href="tg://user?id={}">𝖳𝗁𝗂𝗌 𝖯𝖾𝗋𝗌𝗈𝗇</a>       
+🧒 𝖬𝖺𝗂𝗇𝗍𝖺𝗂𝗇𝖾𝖽 𝖡𝗒 <a href="https://t.me/rayner74">𝖳𝗁𝗂𝗌 𝖯𝖾𝗋𝗌𝗈𝗇</a> & <a href="tg://user?id={}">𝖳𝗁𝗂𝗌 𝖯𝖾𝗋𝗌𝗈𝗇</a>       
 """
     HELP_TEXT = """
 <b><u>𝖡𝖠𝖲𝖨𝖢 𝖢𝖮𝖬𝖬𝖠𝖭𝖣𝖲</u></b>
@@ -26,24 +24,15 @@ class Text(object):
 - 𝖠𝗇𝖽 𝗍𝗁𝖾 𝖿𝗈𝗅𝗅𝗈𝗐𝗂𝗇𝗀
 """
     ABOUT_TEXT = """
-📃 𝖡𝗈𝗍 : <a href="t.me/{}">𝖣𝗈𝗇𝖫𝖾𝖾 𝖱𝗈𝖻𝗈𝗍 V2</a>
-🧒 𝖣𝖾𝗏 : <a href="t.me/Mrk_yt">𝖬𝗎𝗁𝖺𝗆𝗆𝖾𝖽</a>
+📃 𝖡𝗈𝗍 : <a href="t.me/{}">Kurupp Bot</a>
 🧒 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href="tg://user?id={}">{}</a>
 🗣️ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : <a href="https://docs.pyrogram.org">𝖯𝗒𝗍𝗁𝗈𝗇3</a>
 📚 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : <a href="https://docs.pyrogram.org">𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖠𝗌𝗒𝗇𝖼𝗂𝗈 1.13.0</a>
 🗒️ 𝖵𝖾𝗋𝗌𝗂𝗈𝗇 : <a href="t.me/{}">5.0.0 [𝖡𝖾𝗍𝖺]</a>
-📖 𝖲𝗈𝗎𝗋𝖼𝖾 𝖢𝗈𝖽𝖾 : <a href="https://youtu.be/NrbMc93aCzA">𝖢𝗅𝗂𝖼𝗄 𝖧𝖾𝗋𝖾</a>
 """
     SUB_TEXT = """
-𝖧𝖾𝗅𝗅𝗈 𝖿𝗋𝗂𝖾𝗇𝖽𝗌,
-𝖣𝗈 𝗒𝗈𝗎 𝗐𝖺𝗇𝗍 𝗍𝗈 𝗆𝖺𝗄𝖾 𝖺 𝖻𝗈𝖺𝗍 𝗅𝗂𝗄𝖾 𝗍𝗁𝗂𝗌?
-𝖡𝗎𝗍 𝗀𝗈 𝗊𝗎𝗂𝖼𝗄𝗅𝗒 𝖺𝗇𝖽 𝖼𝗅𝗂𝖼𝗄 𝗈𝗇 𝖣𝖾𝗉𝗅𝗈𝗒 𝖭𝗈𝗐 𝗍𝗈 𝗐𝖺𝗍𝖼𝗁 𝗍𝗁𝖾 𝗏𝗂𝖽𝖾𝗈
-𝖳𝗁𝖾 𝗋𝖾𝗉𝗈 𝗏𝗂𝖽𝖾𝗈 𝗁𝖺𝗌 𝖻𝖾𝖾𝗇 𝖺𝖽𝖽𝖾𝖽 𝗍𝗈 𝗍𝗁𝖾 𝖽𝖾𝗌𝖼𝗋𝗂𝗉𝗍𝗂𝗈𝗇 𝖻𝗈𝗑
-𝖦𝗈 𝗊𝗎𝗂𝖼𝗄𝗅𝗒 𝖺𝗇𝖽 𝗉𝗂𝖼𝗄 𝗂𝗍 𝗎𝗉
-
-📢 𝖴𝗉𝖽𝖺𝗍𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 : <a href="t.me/Mo_Tech_Group">𝖬𝗈 𝖳𝖾𝖼𝗁 𝖦𝗋𝗈𝗎𝗉</a>
-🎗️ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href="t.me/Mo_Tech_YT">𝖬𝗈𝖳𝖾𝖼𝗁 𝖢𝗁𝖺𝗇𝗇𝖾𝗅</a>
-➡️ 𝖵𝗂𝖽𝖾𝗈 𝖫𝗂𝗇𝗄 : <a href="https://youtu.be/NrbMc93aCzA">𝖶𝖺𝗍𝖼𝗁 𝖵𝗂𝖽𝖾𝗈</a>
+𝖧𝖾𝗅𝗅𝗈 𝖿𝗋𝗂𝖾𝗇𝖽𝗌, I'm Kurupp Bot
+@kurupp_dq_bot
 """
     FORCE_SUB_TEXT = """
 ഹേയ് {} തായേ കാണുന്ന ചാനലിൽ നിങ്ങൾ ഇല്ല അത് കൊണ്ട് നിങ്ങൾക് സിനിമ കിട്ടില്ല...
@@ -51,10 +40,7 @@ class Text(object):
 """
     FILECAPTION = """
 𝖧𝖾𝗅𝗅𝗈 𝖿𝗋𝗂𝖾𝗇𝖽𝗌,
-𝖣𝗈 𝗒𝗈𝗎 𝗐𝖺𝗇𝗍 𝗍𝗈 𝗆𝖺𝗄𝖾 𝖺 𝖻𝗈𝖺𝗍 𝗅𝗂𝗄𝖾 𝗍𝗁𝗂𝗌?
-𝖡𝗎𝗍 𝗀𝗈 𝗊𝗎𝗂𝖼𝗄𝗅𝗒 𝖺𝗇𝖽 𝖼𝗅𝗂𝖼𝗄 𝗈𝗇 𝖣𝖾𝗉𝗅𝗈𝗒 𝖭𝗈𝗐 𝗍𝗈 𝗐𝖺𝗍𝖼𝗁 𝗍𝗁𝖾 𝗏𝗂𝖽𝖾𝗈
-𝖳𝗁𝖾 𝗋𝖾𝗉𝗈 𝗏𝗂𝖽𝖾𝗈 𝗁𝖺𝗌 𝖻𝖾𝖾𝗇 𝖺𝖽𝖽𝖾𝖽 𝗍𝗈 𝗍𝗁𝖾 𝖽𝖾𝗌𝖼𝗋𝗂𝗉𝗍𝗂𝗈𝗇 𝖻𝗈𝗑
-𝖦𝗈 𝗊𝗎𝗂𝖼𝗄𝗅𝗒 𝖺𝗇𝖽 𝗉𝗂𝖼𝗄 𝗂𝗍 𝗎𝗉
+@kurupp_dq_bot
 """
     SPELLING_TEXT = """
 𝖧𝖾𝗅𝗅𝗈 {},
@@ -231,23 +217,11 @@ class Text(object):
 • 𝖨𝗍'𝗌 𝖻𝖾𝖾𝗇 𝗌𝗈 𝗅𝗈𝗇𝗀 𝗌𝗂𝗇𝖼𝖾 𝗍𝗁𝖾 𝗎𝗉𝖽𝖺𝗍𝖾 {}
 """
     SOURCE_TEXT = """
-𝖧𝖾𝗅𝗅𝗈 𝖿𝗋𝗂𝖾𝗇𝖽𝗌,
-𝖣𝗈 𝗒𝗈𝗎 𝗐𝖺𝗇𝗍 𝗍𝗈 𝗆𝖺𝗄𝖾 𝖺 𝖻𝗈𝖺𝗍 𝗅𝗂𝗄𝖾 𝗍𝗁𝗂𝗌?
-𝖡𝗎𝗍 𝗀𝗈 𝗊𝗎𝗂𝖼𝗄𝗅𝗒 𝖺𝗇𝖽 𝖼𝗅𝗂𝖼𝗄 𝗈𝗇 𝖣𝖾𝗉𝗅𝗈𝗒 𝖭𝗈𝗐 𝗍𝗈 𝗐𝖺𝗍𝖼𝗁 𝗍𝗁𝖾 𝗏𝗂𝖽𝖾𝗈
-𝖳𝗁𝖾 𝗋𝖾𝗉𝗈 𝗏𝗂𝖽𝖾𝗈 𝗁𝖺𝗌 𝖻𝖾𝖾𝗇 𝖺𝖽𝖽𝖾𝖽 𝗍𝗈 𝗍𝗁𝖾 𝖽𝖾𝗌𝖼𝗋𝗂𝗉𝗍𝗂𝗈𝗇 𝖻𝗈𝗑
-𝖦𝗈 𝗊𝗎𝗂𝖼𝗄𝗅𝗒 𝖺𝗇𝖽 𝗉𝗂𝖼𝗄 𝗂𝗍 𝗎𝗉
-
-📢 𝖴𝗉𝖽𝖺𝗍𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 : <a href="t.me/Mo_Tech_Group">𝖬𝗈 𝖳𝖾𝖼𝗁 𝖦𝗋𝗈𝗎𝗉</a>
-🎗️ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href="t.me/Mo_Tech_YT">𝖬𝗈𝖳𝖾𝖼𝗁 𝖢𝗁𝖺𝗇𝗇𝖾𝗅</a>
-➡️ 𝖵𝗂𝖽𝖾𝗈 𝖫𝗂𝗇𝗄 : <a href="https://youtu.be/NrbMc93aCzA">𝖶𝖺𝗍𝖼𝗁 𝖵𝗂𝖽𝖾𝗈</a>
+𝖧𝖾𝗅𝗅𝗈 𝖿𝗋𝗂𝖾𝗇𝖽𝗌, I'm Kurupp_bot
+@kurupp_dq_bot
 """
     CREDITS_TEXT = """
-• 𝖣𝖤𝖵 : <a href="t.me/PR0FESS0R_99">𝖬𝗎𝗁𝖺𝗆𝗆𝖾𝖽</a>
-• 𝖢𝖮 𝖤𝖣𝖨𝖳𝖮𝖱 : <a href="https://github.com/Xrsirx5">𝖷𝗋𝗌𝗂𝗋𝗑5</a>
-
-𝖬𝗎𝗁𝖺𝗆𝗆𝖾𝖽, 𝗁𝗈𝗐 𝗆𝖺𝗇𝗒 𝖼𝗈𝖽𝖾𝗌 𝗁𝖺𝗏𝖾 𝖨 𝗎𝗌𝖾𝖽? 𝖳𝗁𝖾𝗂𝗋 𝗇𝖺𝗆𝖾𝗌 𝖺𝗋𝖾 𝖻𝖾𝗅𝗅𝗈𝗐 [𝖢𝗋𝖾𝖽𝗂𝗍]
-
-<a href="https://github.com/TroJanzHEX">𝖳𝗋𝗈𝖩𝖺𝗇𝗓𝖧𝖤𝖷</a> || <a href="https://github.com/CrazyBotsz">𝖢𝗋𝖺𝗓𝗒𝖡𝗈𝗍𝗌𝗓</a> || <a href="https://github.com/Bughunter">𝖡𝗎𝗀𝗁𝗎𝗇𝗍𝖾𝗋</a> || <a href="https://github.com/PR0FESS0R-99">𝖯𝗋𝗈𝖿𝖾𝗌𝗌𝗈𝗋-99</a> || <a href="https://github.com/EvamariaTG">𝖤𝗏𝖺𝗆𝖺𝗋𝗂𝖺𝖳𝖦</a> || <a href="https://github.com/SpEcHiDe">𝖲𝗉𝖤𝖼𝖧𝗂𝖣𝖾</a> || <a href="https://github.com/FayasNoushad">𝖥𝖺𝗒𝖺𝗌𝖭𝗈𝗎𝗌𝗁𝖺𝖽</a>
+• 𝖣𝖤𝖵 : <a href="t.me/rayner74">rayner74</a>
 """
     REPORT_TEXT = """
 𝖧𝖾𝗅𝗉: <b><u>𝖱𝖾𝗉𝗈𝗋𝗍</u></b>
