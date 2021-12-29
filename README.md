@@ -7,7 +7,7 @@
 👋Hey <a href="https://telegram.dog/rayner74">Rayner74</a>, Iam <a href="https://telegram.me/kurupp_dq_bot">kurupp</a>
 Make me an admin for your group and channel then connect me....🎉
 
-Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a> Command for more information
+Click on the Help Button or <a href="https://telegram.dog/kurupp_dq_bot">/help</a> Command for more information
 🧒 Maintained By <a href="https://t.me/rayner74">This Person</a>     
    
 ----
@@ -89,13 +89,13 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 - `FILE_BUTTONS` : Single or Dual Button
 - `FILE_CAPTION` : File Caption bold or mono
 - `FORCE_CHANNEL` : Main Channel Username Without @
-- `FORCE_TEXT` : Demo Text From [Click Here](https://github.com/PR0FESS0R-99/DonLee-Robot-V2/blob/26510e3ed0cd0bc222f3fb1560925f36e2904ecf/translation.py#L6)
+- `FORCE_TEXT` : Demo Text From [Click Here](https://github.com/rayner074/kurupp/blob/26510e3ed0cd0bc222f3fb1560925f36e2904ecf/translation.py#L6)
 - `GROUP_LINK` : Your Telagarm Group Link (Without @)
 - `PHOTOS` : Bot Pics (Start Help about) random pics
 - `SESSION_FILE` : From pryrogram
 - `SPELLING_MODE_TEXT` : Demo Text From [click here](https://github.com/PR0FESS0R-99/DonLee-Robot-V2/blob/26510e3ed0cd0bc222f3fb1560925f36e2904ecf/translation.py#L17)
 - `WELCOME_ENABLE_OR_DISABLE` : Do you want a welcome message? Type Yes if necessary and No if not required
-- `WELCOME_TEXT` : Demo text from [Click here](https://github.com/PR0FESS0R-99/DonLee-Robot-V2/blob/26510e3ed0cd0bc222f3fb1560925f36e2904ecf/config.py#L26)
+- `WELCOME_TEXT` : Demo text from [Click here](https://github.com/rayner074/kurupp/blob/26510e3ed0cd0bc222f3fb1560925f36e2904ecf/config.py#L26)
 
 ----
 
@@ -103,16 +103,15 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 ↪️ 𝐂𝐑𝐄𝐃𝐈𝐓𝐒 ↩️
 </p>
 
-- Dev  <a href="https://telegram.dog/PR0FESS0R_99">𝖬𝗎𝗁𝖺𝗆𝗆𝖾𝖽</a>
-- Co Editor <a href="https://github.com/Xrsirx5">𝖷𝗋𝗌𝗂𝗋𝗑5</a>
+- Dev  <a href="https://telegram.dog/rayner74">Rayner74</a>
 
-- Thanks To [Donlee_RoBot V2](https://github.com/PR0FESS0R-99/DonLee-robot-V2)
+- Thanks To [Donlee_RoBot_V2](https://github.com/PR0FESS0R-99/DonLee-robot-V2)
 - Thanks To [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Thanks To Me ](https://github.com/rayner074)
 ----
 ----
 
-* Thanks To [Donlee_RoBot V2](https://github.com/PR0FESS0R-99/DonLee-robot-V2) IMDB Poster
+* Thanks To [Donlee_RoBot_V2](https://github.com/PR0FESS0R-99/DonLee-robot-V2) IMDB Poster
 * Thanks To [bughunter0](https://github.com/bughunter0/ban-bot) Ban Bot
 * Thanks To [CrazyBotsz](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2) Adv AutoFilter V2
 * Thanks To [TroJanzHEX](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) Manual Filter
