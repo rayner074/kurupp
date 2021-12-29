@@ -29,8 +29,6 @@ async def cb_handler(client, query):
 
     elif query.data == "home":
         button = [[  
-          Import.Button("➕ 𝖠𝖽𝖽 𝖬𝖾 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖢𝗁𝖺𝗍𝗌 ➕", url=f"http://t.me/{Config.BOT_USERNAME}?startgroup=true")
-          ],[
           Import.Button("⚠️ 𝖧𝖾𝗅𝗉", callback_data="help"),
           Import.Button("𝖠𝖻𝗈𝗎𝗍 🤠", callback_data="about")
           ]]
