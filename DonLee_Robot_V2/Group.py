@@ -561,7 +561,6 @@ async def auto_filter(bot, update):
 🗃️ 𝖳𝗈𝗍𝖺𝗅 𝖥𝗂𝗅𝖾𝗌 : {(len_results)}
 📑 𝖳𝗈𝗍𝖺𝗅 𝖯𝖺𝗀𝖾 : 1/{len_result if len_result < max_pages else max_pages}
 👤 𝖱𝖾𝗊𝗎𝖾𝗌𝗍𝖾𝖽 𝖡𝗒 : {update.from_user.mention}
-🖋 𝖲𝗍𝗈𝗋𝗒𝗅𝗂𝗇𝖾: <code>{imdb.get('plot')}</code>
 ☑️ 𝖢𝗁𝖺𝗍 : {update.chat.title}""",
                 reply_markup=reply_markup,
                 chat_id=update.chat.id,
