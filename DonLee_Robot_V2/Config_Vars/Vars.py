@@ -19,20 +19,20 @@ class Config(object):
     DATABASE = os.environ.get("DATABASE_URI")   
     # from forces subscriber );
     FORCE_SUB_TEXT = os.environ.get("FORCE_TEXT", Text.FORCE_SUB_TEXT)
-    FORCE_CHANNEL = os.environ.get("FORCE_CHANNEL", "Mo_Tech_YT")
+    FORCE_CHANNEL = os.environ.get("FORCE_CHANNEL", "all_links8")
     # seplling mode
     SPELLING_MODE = os.environ.get("SPELLING_MODE_TEXT", Text.SPELLING_TEXT)
     # from Bot Deploying User
     DEV_ID = set(int(x) for x in os.environ.get("DEV_ID1", "2028425293").split())
-    DEV_NAME = os.environ.get("DEV_NAME", "𝖬𝗎𝗁𝖺𝗆𝗆𝖾𝖽 𝖱𝖪")
+    DEV_NAME = os.environ.get("DEV_NAME", "rayner74")
     OW_ID = int(os.environ.get("DEV_ID2", "2028425293"))
-    DEV_USERNAME = os.environ.get("DEV_USERNAME", "Mrk_YT")
+    DEV_USERNAME = os.environ.get("DEV_USERNAME", "rayner74")
     # from file caption
     CAPTION_BOLD_OR_MONO = os.environ.get("FILE_CAPTION", "mono")
     CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", Text.FILECAPTION)
 
     # from start, help, about, settings (random pics)
-    PHOTO = os.environ.get("PHOTOS", "https://telegra.ph/file/ed5180f34c2d3981a8e46.jpg").split()
+    PHOTO = os.environ.get("PHOTOS", "https://telegra.ph/file/33e070a63186b01afb488.jpg").split()
 
     # bot or user
     USE_AS_BOT = True
@@ -50,7 +50,7 @@ class Config(object):
     SUDO_USERS = list(set(SUDO_USERS))
 
     # from welcome
-    name_button_welcome = "📣 JOIN MY FILM CHANNEL 📣"
+    name_button_welcome = "📣 All Links 📣"
     WELCOME_BUTTON_NAME = os.environ.get("WELCOME_BUTTON_NAME", name_button_welcome)
     welcome_text = "𝖶𝖾𝗅𝖼𝗈𝗆𝖾 𝖡𝗋𝗈𝗍𝗁𝖾𝗋"
     CUSTOM_WELCOME_TEXT = os.environ.get("WELCOME_TEXT", welcome_text)
